@@ -70,3 +70,23 @@ Backend services are currently being expanded and integrated.
 ## Live Demo
 
 https://optiliumapp.synidox.com
+## Screenshots
+
+### Command Center
+![Command Center](screenshots/Op1.png)
+
+### Driver Details
+![Driver Details](screenshots/Op2.png)
+
+### Hot Load Recommendations
+![Hot Loads](screenshots/Op3.png)
+
+### Action Priority Board
+![Action Priority Board](screenshots/Op6.png)
+
+### Broker Hub
+![Broker Hub](screenshots/Op7.png)
+
+### Driver Hub
+![Driver Hub](screenshots/Op8.png)
+
