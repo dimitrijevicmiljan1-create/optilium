@@ -70,23 +70,47 @@ Backend services are currently being expanded and integrated.
 ## Live Demo
 
 https://optiliumapp.synidox.com
+
 ## Screenshots
 
-### Command Center
-![Command Center](screenshots/Op1.png)
+### Command Center Dashboard
 
-### Driver Details
-![Driver Details](screenshots/Op2.png)
+![Command Center](screenshots/command%20center.png)
 
-### Hot Load Recommendations
-![Hot Loads](screenshots/Op3.png)
+Centralized operational dashboard providing fleet visibility, load monitoring, weather insights and dispatch recommendations.
 
-### Action Priority Board
-![Action Priority Board](screenshots/Op6.png)
+### Driver Details Panel
+
+![Driver Details](screenshots/driver%20details.png)
+
+Detailed driver information including route assignments, earnings, vehicle data and activity tracking.
+
+### Edit Driver Modal
+
+![Edit Driver](screenshots/edit%20driver.png)
+
+Driver profile management interface for updating contact information, licenses, certifications and operational details.
 
 ### Broker Hub
-![Broker Hub](screenshots/Op7.png)
+
+![Broker Hub](screenshots/broker%20hub.png)
+
+Communication workspace for broker interactions, load negotiations and relationship management.
 
 ### Driver Hub
-![Driver Hub](screenshots/Op8.png)
 
+![Driver Hub](screenshots/driver%20hub.png)
+
+Dedicated workspace for driver operations, assignments, schedules and performance monitoring.
+
+### Documents Management
+
+![Documents](screenshots/documents.png)
+
+Centralized document repository for contracts, permits, invoices and compliance records.
+
+### Action Priority Board
+
+![Action Priority Board](screenshots/action%20priority%20board.png)
+
+Operational task management board displaying urgent dispatch actions and workflow priorities.
